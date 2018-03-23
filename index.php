@@ -4,7 +4,7 @@ require_once './includes/functions.php';
 
 if (isset($_FILES['uplImgs'])) {
     $uploadedFiles = uploadFiles($_FILES['uplImgs'], PATH_ORIGINALS);
-    createThumbnails($uploadedFiles);
+    createThumbnails($uploadedFiles, [1,2,3,4]); //Retinavarianten 1,2,3,4
 
 }
 
