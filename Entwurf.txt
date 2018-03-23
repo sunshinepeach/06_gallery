@@ -1,0 +1,20 @@
+
+Ordnerstruktur
+gallery/
+    originals/
+       5135432_3657653.jpeg
+    thumbnails/
+       5135432_3657653_100x50.jpeg
+       5135432_3657653_100x50@2x.jpeg
+       5135432_3657653_100x50@3x.jpeg
+       5135432_3657653_fullsize.jpeg
+
+
+Upload/ Typkorrektur des Originals
+    apfel.jpg      png
+    bZH558.dmp      originals/apfel.png
+    tmp-name
+    name
+    
+      apfel_ 43212_465345.png
+           //  43212_465345.png  //
